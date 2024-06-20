@@ -1,0 +1,39 @@
+Sample Prompts and Responses
+User Prompt: "Ema, analyze the skill gaps for the data science team.
+"
+Ema SAOS Response: "Analyzing the profiles of the data science team... The following skill gaps have been identified:
+Advanced Machine Learning: 60% of the team lacks this skill.
+1.
+Data Visualization Tools: 40% of the team needs upskilling in this area.
+2.
+Python Programming: 30% of the team requires intermediate to advanced training.
+"
+3.
+User Prompt: "Ema, create personalized upskilling plans for the data science team.
+"
+Ema SAOS Response: "Generating personalized upskilling plans... Here are the recommendations:
+John Doe: Advanced Machine Learning course on Coursera, Data Visualization with Tableau on Udemy.
+1.
+Jane Smith: Intermediate Python Programming on edX, Advanced Data Visualization on Udacity.
+2.
+Mark Johnson: Python for Data Science on Khan Academy, Advanced Machine Learning on Coursera.
+"
+3.
+User Prompt: "Ema, assign pre-joining training modules to the new hires for the upcoming project.
+"
+Ema SAOS Response: "Assigning pre-joining training modules... The following modules have been assigned:
+Alice Brown: Introduction to Data Science on Coursera, Python Basics on Khan Academy.
+1.
+Bob Green: Data Analysis with Python on edX, Machine Learning Fundamentals on Udacity. Progress will be tracked and reported
+weekly.
+"
+2.
+User Prompt: "Ema, allocate resources for the new AI project based on current skills and training progress.
+"
+Ema SAOS Response: "Allocating resources... The following team members have been matched to the AI project:
+John Doe - Lead Data Scientist
+1.
+Jane Smith - Data Analyst
+2.
+Mark Johnson - Python Developer Adjustments will be made dynamically as training progresses.
+"
